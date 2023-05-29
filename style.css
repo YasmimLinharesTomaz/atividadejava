@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+ body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    width: 100vw;
+ }
+ .ya{
+    align-items: center; 
+    font-size: 24px; 
+    gap: 30px;
+    flex-direction: column;
+    width: 100vw;
+
+
+ }
+ 
